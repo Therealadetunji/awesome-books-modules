@@ -1,7 +1,7 @@
-import { bookStore } from '../modules/bookStore.js';
-import { userInterface } from '../modules/user-interface.js';
-import { bookBank } from '../modules/bookBank.js';
-import { DateTime } from './modules/luxon.js';
+import { bookStore } from '../modules/bookStore.mjs';
+import { userInterface } from '../modules/user-interface.mjs';
+import { bookBank } from '../modules/bookBank.mjs';
+import { DateTime } from './modules/luxon.mjs';
 
 const now = DateTime.now();
 document.getElementById('dateTime').innerHTML = now.toLocaleString(
