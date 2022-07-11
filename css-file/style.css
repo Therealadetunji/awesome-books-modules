@@ -140,3 +140,10 @@ ul li {
 #footer p {
   text-align: start;
 }
+
+#dateTime {
+  float: right;
+  margin-right: 60px;
+  color: #ffe4c4;
+  font-size: large;
+}
