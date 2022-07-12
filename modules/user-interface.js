@@ -2,7 +2,7 @@ import { bookStore } from './bookStore.js';
 import { bookBank } from './bookBank.js';
 
 // add book to ui
-export class userInterface {
+class userInterface {
   static displayBooks() {
     const books = bookStore.getbookBank();
     books.forEach((_newBook) => userInterface.addBook(_newBook));
@@ -69,3 +69,5 @@ document.querySelector('#displayField').addEventListener('click', (e) => {
     e.target.parentElement.parentElement.firstChild.firstChild.textContent
   );
 });
+
+export default userInterface;

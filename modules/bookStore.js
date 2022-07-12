@@ -1,4 +1,4 @@
-export class bookStore {
+class bookStore {
   // add method to get book from store
   static getbookBank() {
     // check if local storage is empty
@@ -28,3 +28,5 @@ export class bookStore {
     localStorage.setItem('books', JSON.stringify(books));
   }
 }
+
+export default bookStore;
