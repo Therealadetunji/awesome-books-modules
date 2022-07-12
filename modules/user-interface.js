@@ -1,5 +1,5 @@
-import { bookStore } from './bookStore.js';
-import { bookBank } from './bookBank.js';
+import bookStore from './bookStore.js';
+import bookBank from './bookBank.js';
 
 // add book to ui
 class userInterface {
