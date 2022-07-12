@@ -1,5 +1,6 @@
 import bookStore from './bookStore.js';
-import bookBank from './bookBank.js';
+
+import BookBank from './bookBank.js';
 
 // add book to ui
 class userInterface {
@@ -7,6 +8,7 @@ class userInterface {
     const books = bookStore.getbookBank();
     books.forEach((_newBook) => userInterface.addBook(_newBook));
   }
+
   static addBook(_newBook) {
     const outputField = document.getElementById('displayField');
     const ul = document.createElement('ul');
@@ -46,10 +48,10 @@ class userInterface {
 document.addEventListener('DOMContentLoaded', userInterface.displayBooks);
 // adding book
 document.querySelector('#form').addEventListener('submit', (e) => {
-  // e.preventDefault();
+  e.preventDefault();
   const title = document.getElementById('titleName').value;
   const author = document.getElementById('authorName').value;
-  const book = new bookBank(title, author);
+  const book = new BookBank(title, author);
 
   // Adding book to user interface
   userInterface.addBook(book);
@@ -66,7 +68,7 @@ document.querySelector('#displayField').addEventListener('click', (e) => {
 
   //    remove book for storage
   bookStore.removeBook(
-    e.target.parentElement.parentElement.firstChild.firstChild.textContent
+    e.target.parentElement.parentElement.firstChild.firstChild.textContent,
   );
 });
 

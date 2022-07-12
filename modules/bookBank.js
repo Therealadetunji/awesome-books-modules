@@ -1,8 +1,8 @@
-class bookBank {
+class BookBank {
   constructor(title, author) {
     this.title = title;
     this.author = author;
   }
 }
 
-export default bookBank;
+export default BookBank;

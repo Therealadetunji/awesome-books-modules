@@ -11,12 +11,14 @@ class bookStore {
     }
     return books;
   }
+
   // create method to add book to storage
   static addBook(book) {
     const books = bookStore.getbookBank();
     books.push(book);
     localStorage.setItem('books', JSON.stringify(books));
   }
+
   // remove book from storage
   static removeBook(title) {
     const books = bookStore.getbookBank();

@@ -7454,7 +7454,6 @@ function friendlyDateTime(dateTimeish) {
 const VERSION = '3.0.1';
 
 export {
-  DateTime,
   Duration,
   FixedOffsetZone,
   IANAZone,
@@ -7467,5 +7466,7 @@ export {
   Zone,
 };
 //# sourceMappingURL=luxon.js.map
+
+export default DateTime;
 
 // export { DateTime };
