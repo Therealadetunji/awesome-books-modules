@@ -1,4 +1,11 @@
 {
+  "name": "my-project",
+  "jest": {
+    "verbose": true
+  }
+}
+
+{
   "name": "modules",
   "version": "1.0.0",
   "description": "",
