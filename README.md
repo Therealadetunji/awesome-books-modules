@@ -10,15 +10,18 @@ if click on list, it will display the list of books sections
 
 ## Built With
 
-The major used for this project are :
+The major languages used for this project are :
 HTML,
-Javascript
+Javascript and
+css
 
 ## Technologies used
 
 The amazing tecnologies for this project are:
 Linters,
 git
+
+https://github.com/Therealadetunji/awesome-books-modules/issues/2
 
 ## How to make a copy of this project(clone):
 
@@ -28,20 +31,10 @@ use git fork and pull to ur locall machine or download the zip code ..
 
 ## Author1:
 
-- ## ISIGBA AMBROSE
+- ## Michael
 
 ## Social:
 
-Github:[@ambrosegithub](https://github.com/Ambrosegithub)
--Twitter:[@Glorious12](https:mobile.twitter.com/Glorious851)
-Facebook:Isigba Ambrose Davaid
-Email: isigba.ammbrose94@gmail.com
-Whatsapp tel: +393512463798
-Contact: +3938817911630, +393298582707.
-
-## Author2:
-
-- ## Micheal Adetunji
-  ## Social:
-  Github:[@therealadetunji
-  ](https://github.com/Therealadetunji)
+Github:[@therealadetunjigithub](https://github.com/therealadetunji)
+-Twitter:[@Glorious12](https:@madetunji1376)
+Email: madetunji1376@gmail.com
