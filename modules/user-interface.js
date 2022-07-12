@@ -1,5 +1,5 @@
-import { bookStore } from './bookStore.mjs';
-import { bookBank } from './bookBank.mjs';
+import { bookStore } from './bookStore.js';
+import { bookBank } from './bookBank.js';
 
 // add book to ui
 export class userInterface {

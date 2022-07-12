@@ -1,4 +1,3 @@
-// add books to store
 export class bookStore {
   // add method to get book from store
   static getbookBank() {
