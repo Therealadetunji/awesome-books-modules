@@ -1,73 +1,40 @@
-![](https://img.shields.io/badge/Microverse-blueviolet)
+## Project Name
 
-# Project Name
+"Awesome Book refactor" is a project design to add and remove book from the web page, its a collaborative project set up by Microverse as a core requirement.
 
-> Description the project.
-
+It is was redesign with javascript class, class method.
+There are three (3) diferent sections that were added using event listener.
+if click on add, it will display the add books section
+if click on contact, it will display the contact information section
+if click on list, it will display the list of books sections
 
 ## Built With
 
-- Major languages
-- Frameworks
-- Technologies used
+The major languages used for this project are :
+HTML,
+Javascript and
+css
 
-## Live Demo (if available)
+## Technologies used
 
-[Live Demo Link](https://livedemo.com)
+The amazing tecnologies for this project are:
+Linters,
+git
 
+https://github.com/Therealadetunji/awesome-books-modules/issues/2
 
-## Getting Started
+## How to make a copy of this project(clone):
 
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+Visit our github url listed below
+search project(repo name)
+use git fork and pull to ur locall machine or download the zip code ..
 
+## Author1:
 
-To get a local copy up and running follow these simple example steps.
+- ## Michael
 
-### Prerequisites
+## Social:
 
-### Setup
-
-### Install
-
-### Usage
-
-### Run tests
-
-### Deployment
-
-
-
-## Authors
-
-👤 **Author1**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-👤 **Author2**
-
-- GitHub: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- LinkedIn: [LinkedIn](https://linkedin.com/in/linkedinhandle)
-
-## 🤝 Contributing
-
-Contributions, issues, and feature requests are welcome!
-
-Feel free to check the [issues page](../../issues/).
-
-## Show your support
-
-Give a ⭐️ if you like this project!
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
-## 📝 License
-
-This project is [MIT](./MIT.md) licensed.
+Github:[@therealadetunjigithub](https://github.com/therealadetunji)
+-Twitter:[@Glorious12](https:@madetunji1376)
+Email: madetunji1376@gmail.com
