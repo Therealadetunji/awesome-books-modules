@@ -1,15 +1,15 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
 # Project Name
-
-> Description the project.
+> 
+awesome-books-modules is an app that allows you to manage your entire book library, straight from the browser!
 
 
 ## Built With
-
-- Major languages
-- Frameworks
-- Technologies used
+>
+- HTML
+- CSS
+- Javascript
 
 ## Live Demo (if available)
 
