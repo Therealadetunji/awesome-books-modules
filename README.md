@@ -2,8 +2,7 @@
 
 # Book Library
 > 
-awesome-books-modules is an app that allows you to manage your entire book library, straight from the browser!
-
+"awesome-books-modules" is an app that allows you to manage your entire book library, straight from the browser! Built with html, css, JS
 
 ## Built With
 >
